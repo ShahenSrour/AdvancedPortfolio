@@ -1,0 +1,20 @@
+Tags
+
+* : sets font family, margin & padding to 0 and makes it border box by default
+a :
+nav : navigation bar height limiter.
+----------------------------------------------------------------------------------------------------------------------------------------
+IDS
+
+landing_page : first page height limiter.
+LOGO : to modify the logo image
+----------------------------------------------------------------------------------------------------------------------------------------
+CLASSES
+
+nav_links_section : container for navigation links
+Container : width limiter to 1200px.
+nav_links : just adds margin to the left and right of the navigation link.
+link_hover_effect :
+link_hover_effect_black :
+font_awesome : just adds margin to the left and right of the font awesome logo.
+----------------------------------------------------------------------------------------------------------------------------------------
