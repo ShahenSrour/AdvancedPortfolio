@@ -17,4 +17,10 @@ nav_links : just adds margin to the left and right of the navigation link.
 link_hover_effect :
 link_hover_effect_black :
 font_awesome : just adds margin to the left and right of the font awesome logo.
+header_paragraph :
+header :
+orange_text : will make the color orange
+little_buttons_header :
+social_links :
+animation_button_social_links :
 ----------------------------------------------------------------------------------------------------------------------------------------
