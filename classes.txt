@@ -8,6 +8,9 @@ IDS
 
 landing_page : first page height limiter.
 LOGO : to modify the logo image
+#Projects :
+#Contact :
+
 ----------------------------------------------------------------------------------------------------------------------------------------
 CLASSES
 
@@ -22,5 +25,8 @@ header :
 orange_text : will make the color orange
 little_buttons_header :
 social_links :
-animation_button_social_links :
+animation_button_click :
+mail_btn :
+scroll :
+scroll_icon :
 ----------------------------------------------------------------------------------------------------------------------------------------
